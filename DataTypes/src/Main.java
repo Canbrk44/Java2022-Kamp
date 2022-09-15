@@ -8,7 +8,7 @@ public class Main {
         double sayi5 = 32.12; // 4.9406564584124654 ile 1.7976931348623157 arasındadır
         char karakter = 'A'; // Tekbir karakteri ifade eder
         boolean dogruMu = false; // Mantıksal veri türüdür
-        
+
 
     }
 }
